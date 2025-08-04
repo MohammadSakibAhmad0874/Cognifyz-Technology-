@@ -102,8 +102,9 @@ This project is created as part of an internship task for **Cognifyz Technologie
 
 ---
 
-**© 2024 TechCraft Pro. All rights reserved.**
+**© 2025 TechCraft Pro. All rights reserved by Md Sakib Ahmad.**
 
 ---
 
 **Tagged:** #CognifyzTechnologies #WebDevelopment #Internship #Portfolio
+
